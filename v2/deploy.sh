@@ -22,7 +22,7 @@ else
   echo "3-1. apt update complete"
   
   # 3-2 jdk install
-  sudo apt-get -y install openjdk-11-jdk 1>/dev/null
+  sudo apt-get -y install openjdk-21-jdk 1>/dev/null
   echo "3-2. jdk install complete"
   
   # 3-3 timezone
