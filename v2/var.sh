@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GITHUB_ID="codingspecialist"
+GITHUB_ID="metacoding-books"
 PROJECT_NAME="aws-v2"
 PROJECT_VERSION="0.0.1"
 PROJECT_PID="$(pgrep -f ${PROJECT_NAME}-${PROJECT_VERSION}.jar)"

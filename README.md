@@ -8,7 +8,6 @@
 
 ### 배포 V2 EC2 배포 스크립트 작성
 - https://github.com/metacoding-books/aws-v2
-- https://github.com/metacoding-books/aws-v2-last
 
 ### 배포 V3 엘라스틱빈스톡 기본 배포
 - https://github.com/metacoding-books/aws-v3
