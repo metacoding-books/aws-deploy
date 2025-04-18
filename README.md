@@ -11,7 +11,6 @@
 
 ### 배포 V3 엘라스틱빈스톡 기본 배포
 - https://github.com/metacoding-books/aws-v3
-- https://github.com/metacoding-books/aws-v3-0.0.4
 
 ### 배포 V4 엘라스틱빈스톡 + RDS 배포
 - https://github.com/metacoding-books/aws-v4
