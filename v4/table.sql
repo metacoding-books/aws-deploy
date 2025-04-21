@@ -1,0 +1,11 @@
+CREATE DATABASE metadb;
+USE metadb;
+
+CREATE TABLE book_tb (
+ id INTEGER AUTO_INCREMENT PRIMARY KEY,
+ title VARCHAR(255),
+ content VARCHAR(255),
+ author VARCHAR(255)
+) DEFAULT CHARSET=utf8mb4;
+
+SELECT * FROM book_tb;
